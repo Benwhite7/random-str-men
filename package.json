@@ -1,0 +1,24 @@
+{
+  "name": "random-str-men",
+  "version": "1.0.0",
+  "description": "Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benwhite7/random-str-men.git"
+  },
+  "keywords": [],
+  "author": "Benjamin Melendez <@Benwhite7>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benwhite7/random-str-men/issues"
+  },
+  "homepage": "https://github.com/Benwhite7/random-str-men#readme",
+   "bin":{
+    "random-str-men":"./bin/global.js"
+   },
+   "preferGlobal": true
+}
